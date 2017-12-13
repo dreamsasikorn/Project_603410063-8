@@ -1,0 +1,11 @@
+c:\users\mycom01\documents\visual studio 2017\Projects\Project_603410063-8\Project_603410063-8\bin\Debug\Project_603410063-8.exe.config
+c:\users\mycom01\documents\visual studio 2017\Projects\Project_603410063-8\Project_603410063-8\bin\Debug\Project_603410063-8.exe
+c:\users\mycom01\documents\visual studio 2017\Projects\Project_603410063-8\Project_603410063-8\bin\Debug\Project_603410063-8.pdb
+c:\users\mycom01\documents\visual studio 2017\Projects\Project_603410063-8\Project_603410063-8\obj\Debug\Project_603410063-8.csprojResolveAssemblyReference.cache
+c:\users\mycom01\documents\visual studio 2017\Projects\Project_603410063-8\Project_603410063-8\obj\Debug\Project_603410063_8.Form1.resources
+c:\users\mycom01\documents\visual studio 2017\Projects\Project_603410063-8\Project_603410063-8\obj\Debug\Project_603410063_8.Properties.Resources.resources
+c:\users\mycom01\documents\visual studio 2017\Projects\Project_603410063-8\Project_603410063-8\obj\Debug\Project_603410063_8.รายละเอียดหอพัก.resources
+c:\users\mycom01\documents\visual studio 2017\Projects\Project_603410063-8\Project_603410063-8\obj\Debug\Project_603410063-8.csproj.GenerateResource.Cache
+c:\users\mycom01\documents\visual studio 2017\Projects\Project_603410063-8\Project_603410063-8\obj\Debug\Project_603410063-8.exe
+c:\users\mycom01\documents\visual studio 2017\Projects\Project_603410063-8\Project_603410063-8\obj\Debug\Project_603410063-8.pdb
+c:\users\mycom01\documents\visual studio 2017\Projects\Project_603410063-8\Project_603410063-8\obj\Debug\Project_603410063_8.คำนวณค่าห้อง.resources
